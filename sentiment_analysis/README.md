@@ -1,0 +1,1 @@
+[exercise](https://www.coursera.org/learn/python-for-applied-data-science-ai/ungradedLti/QaXFa/hands-on-lab-write-your-first-program)
