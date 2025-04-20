@@ -1,1 +1,1 @@
-[exercise](https://www.coursera.org/learn/python-for-applied-data-science-ai/ungradedLti/QaXFa/hands-on-lab-write-your-first-program)
+[exercise](https://www.coursera.org/learn/python-project-for-ai-application-development/ungradedLti/EXdXO/practice-project-sentiment-analysis)
